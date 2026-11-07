@@ -1,4 +1,4 @@
-jos jis 
+jos jis bos
 
 # Bluetooth LE Spam [![Discord](https://img.shields.io/discord/1170266776731406386?label=Discord&link=https://discord.gg/x4e4Gma585)](https://discord.gg/x4e4Gma585)
 
